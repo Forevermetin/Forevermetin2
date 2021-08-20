@@ -1,0 +1,60 @@
+Information
+----------
+Version	  3.0
+Size:	  691 MB
+File:	  exe (self-extracting archive)
+Content:	  ymir effects
+	  environment
+	  ymir property
+	  ymir terrainmaps
+	  ymir textureset
+	  ymir tree
+	  ymir zone
+	  
+
+Download link
+-------------
+ • https://workupload.com/file/mkgXdphHten
+
+Please do not share this link or publish. If the wrong people see it, it will be
+deleted.
+
+Password
+---------
+ - forevermetin2
+
+WorldEditor Clean is very suitable for beginners. As soon as you have
+WorldEditor Clean you can already patch. WorldEditor Clean and WorldEditor
+Work become WorldEditor Gold. WE-Clean is clean and sorted.
+
+Before
+------
+D:\ymir work\property\a\obj
+- a1_018-stonelight.prb
+- a1_018-stonelight-1.prb
+- a1-001-house3.prb
+- a1-004-house2.prb
+- a1-038-wall-corner.prb
+- a1-038-wall-door.prb
+
+After
+-----
+D:/ymir work/property/ymir/city/deco/stonelight
+- a1_018-stonelight.prb
+- a1_018-stonelight-1.prb
+
+D:/ymir work/property/ymir/city/redempire/house
+- a1-001-house3.prb
+- a1-004-house2.prb
+
+D:/ymir work/property/ymir/city/redempire/wall
+- a1-038-wall-corner.prb
+- a1-038-wall-door.prb
+
+I sort and test all files individually and unfortunately I have to say alone. But it is
+not a problem as long as I get feedback and credit.
+
+Last change: March 04, 2021
+
+Best regards 
+iAce

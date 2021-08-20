@@ -1,0 +1,30 @@
+How or where do I best start with a map?
+
+The question of how best to start is answered differently and it can lead to
+confusion. Personally, I always start with the job which should look the most
+beautiful. Example: For a Map1 I start with the City. As soon as I finish the city, I
+start designing outside. It doesn't matter how big the map is.
+
+Farmmaps are the easiest, depending on the size of the map. If the map is very
+small, I start in the middle. If the map is very large, so I start at the top and work
+my way down. You can of course Start in the middle, 
+
+With a 1 × 1 - 2 × 2 map you can start from the middle. 
+From a size of 3 × 3 it would make sense to have one who takes corners. 
+Either at the top right / left or at the bottom right / Left. If I start at the top right,
+the players have to run all the way to the bottom / middle to get to a boss.
+
+With dungeons, I always start at a corner. Either top right / left or bottom right 
+left. For dungeons, by the way, I have uploaded a package which you can
+download for free. It is a Dungeon Set which I used and published for Solitary for
+a long time have.
+
+ • /info solitary
+
+Please note the following for all maps:
+There should be enough space between the player and the end, so 
+Player doesn't see the ending and this is better received.
+
+
+Kind regards
+iAce

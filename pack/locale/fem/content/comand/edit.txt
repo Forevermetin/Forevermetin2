@@ -1,0 +1,12 @@
+List of Edit Comands:
+You can edit and save files directly.
+The comands starts with "/"
+
+Example: /edit interface_fem
+
+Edit:
+ > interface_fem
+ > interface_we
+ > item_desc
+ > locale_string
+ > color

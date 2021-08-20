@@ -1,0 +1,38 @@
+List of Patch Comands:
+You can patch the current files that i find on metin2dev.
+The comands starts with "/"
+
+Example: /patch bgm
+
+Patch:
+ > bgm
+ > effect
+ > environment
+ > guild
+ > icon
+ > item
+ > locale
+ > map
+ > monster
+ > monster2
+ > npc
+ > npc_mount
+ > npc_pet
+ > npc2
+ > pc
+ > pc2
+ > pc3
+ > property
+ > root
+ > season1
+ > season2
+ > sound
+ > special
+ > terrainmaps
+ > textureset
+ > tree
+ > ui
+ > uiscript
+ > zone
+ 
+The files will be downloadet in this path (Forevermetin2/pack/)

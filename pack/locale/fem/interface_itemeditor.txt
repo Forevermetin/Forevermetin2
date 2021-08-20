@@ -1,0 +1,59 @@
+title_label	Itemeditor
+dashboard_label	Dashboard
+edit_label	Edit
+search_label	Search
+path_button	Path
+newitem_button	New Item
+saveitemlist_button	Save Itemlist
+saveitemdesc_button	Save Itemdesc
+saveitemproto_button	Save Itemproto
+savealltogether_button	Save all together
+openworkfolder_button	Open work folder
+itemtype_label	Item
+subtype_label	Subtype
+itemname_label	Name
+itemvalue_label	Value
+levellimit_label	Level
+itemsize_label	Size
+icon_label	Icon *.tga
+objectgr2_label	3D Object *.gr2
+buyfor_label	Buy for
+sellfor_label	Sell for
+stonesocket_label	Socket
+stonefor_label	Stone for
+specular_label	Specular
+avaragedamage_label	Avarage Damage
+value0_label	Value0
+value1_label	Value1
+value2_label	Value2
+value3_label	Value3
+value4_label	Value4
+value5_label	Value5
+bonus1_label	Bonus I
+bonus2_label	Bonus II
+bonus3_label	Bonus III
+antiflag_label	Antiflag
+antiflag_female_label	Is Female
+antiflag_male_label	Is Male
+antiflag_warrior_label	Is Warrior
+antiflag_ninja_label	Is Ninja
+antiflag_sura_label	Is Sura
+antiflag_shaman_label	Is Shaman
+antiflag_wolfman_label	Is Wolfman
+antiflag_canrankdrop_label	Is Negative Rank Drop
+antiflag_candrop_label	Can Drop
+antiflag_cansell_label	Can Sell
+antiflag_canstack_label	Can Stack
+antiflag_canshop_label	Can Shop
+antiflag_cansafebox_label	Can Safebox
+itemdesc1_label	Itemdesc I
+itemdesc2_label	Itemdesc II
+limittype_label	Limit Type
+limit0typ_label	Limit 0 Type
+limit1typ_label	Limit 1 Type
+itemflag_label	Flag
+wearflag_label	Wear
+addontype_label	Addon Type
+addon0type_label	Addon 0 Type
+addon1type_label	Addon 1 Type
+addon2type_label	Addon 2 Type

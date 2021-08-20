@@ -1,0 +1,22 @@
+Welcome to FAQ 9
+
+WorldEditor is really unstable and crashes very often.
+Mostly it crashes when editing effects and that sucks with time. 
+
+We're not only talking about old but also all new WorldEditors.
+
+The following are known to have crashes:
+
+ - You choose a texture that doesn't exist.
+     In other words, entered in the textureset but not
+     matching .dds file to it. 
+
+ - Select several objects at once. For me at least, it was 
+     with the officials trees.
+
+ - Keep the tool open too long. Therefore, please always 
+     restart the tool after 15-30 minutes, or continue working
+     until it crashes, but then please always save.
+
+Best regards 
+iAce

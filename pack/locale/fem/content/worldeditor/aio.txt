@@ -1,0 +1,27 @@
+You are probably wondering what aio now means. Or have you already
+interpreted something? I save you the trouble of thinking further, this is aio:
+
+> fem_autodesk_ripper_set
+  -----------------------
+  Information about this pack can be found in the WorldEditor Section if you 
+  have Forevermetin2. In large and whole there is as much in it as you need 
+  to extract different games, so to export the objects and npcs.
+  
+> fem_officiall_objects_autodesk
+  ------------------------------
+  in this file you can find almost all metin2 objects as one .ms file. You 
+  open MS files with Autodesk no matter which version. You can use these 
+  files to edit and save the official objects.
+
+> fem_worldeditor_clean_v3
+  ------------------------
+  This pack contains all objects of the official metin2 server. I have 
+  re-sorted everything. this pack is here will only be updated via 
+  Forevermetin2. In addition, this pack contains the world editor version 
+  42 from MartySama. I recommend to continue working with this pack here 
+  and to report any errors that arise.
+
+ > Download: https://workupload.com/file/sCC9ALYPH8e
+
+Best regards 
+iAce

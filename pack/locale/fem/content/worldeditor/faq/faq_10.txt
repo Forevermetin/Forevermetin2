@@ -1,0 +1,21 @@
+Welcome to FAQ 10
+
+At the old WorldEditor there was this Bug, where the area you are currently
+texturing was white. It was because there was a limit textures that could be 
+used on a surface. So you could e.g. apply 3-4 textures to a surface without it
+becoming white, and from 4+ fucked it up.
+
+With the new WorldEditor/s this should not be
+...and if you do..: 
+
+This is how you can fix it:
+-----------------------
+
+ - L-Shift+0 = 255 textures
+ - L-Shift+8 = 8 textures
+ 
+You want to use 5 textures or more at once? Just select all textures you want 
+and it will become one texture.
+
+Best regards 
+iAce

@@ -1,0 +1,67 @@
+Autodesk 3DS Max Ripper-Set v2
+------------------------------
+Size:	119 MB
+File:	exe (Winrar)
+
+[Content] 
+
+Autodesk
+--------
+ - scripts
+ - settings
+ - stdplugs
+
+Granny
+------
+ - Granny to Max
+ - MeshDeleter
+ - TextureChanger
+ - gr2_viewer_setup.rar
+ - Granny_Common_2_11_8_0_Release.zip
+
+Noesis
+------
+ - plugins
+ - scenes
+ - scripts
+ - Full Pack
+
+Other
+-----
+ - Texture Renamer r32.bat By Nytro
+ - Cancer.exe
+
+Quickbms
+---------
+ - scripts
+ - src
+ - tool
+ - changelog.txt
+ - Luigi Auriemma.pdf
+ - QuickBMS - HOWTO.pdf
+
+Umodel
+-------
+ - extract.bat
+ - SDL.dll
+ - SDL2.dll
+ - umodel.exe
+ - umodelGUI.exe
+ - readme.txt
+ - Gildor's Homepage.pdf
+
+Download link
+-------------
+ • https://workupload.com/file/rnewPSenyek
+
+Please do not share this link or publish. If the wrong people see it, it will be deleted.
+
+Passwort
+---------
+ - forevermetin2
+
+
+Date: 04. March 2021
+
+Best regards 
+iAce

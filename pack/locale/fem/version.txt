@@ -1,0 +1,22 @@
+March 2021 - R2.0
+
+ - The tool has been completely re-coded, should be a lot cleaner
+ - Basic structure from forevermetin2 based on metin2. (folders, path's)
+ - The Tool is now larger than before (795x495) to (900x600)
+ - Login system inserted (you can log in as guest or disable the function)
+ - Feedback system inserted (you can send a feedback with login)
+ - Syslog inserted, but this is still in progress
+ - Much of the content can be edited and saved directly (F1)
+ - Fonts and colors have been adjusted and changed a little
+ - Latest worldeditor and the associated files implemented (*info worldeditor)
+ - Syslog inserted, but this is still in progress (*logs)
+ - New commands available, see commands
+ - Music list adjusted (only oldschool metin2 music)
+ - Profinder inserted (*info profinder)(-)
+ - Forevermetin2 Itemdesc is clickable (if e.g. the about.txt file is open, and you
+   click on item desc, a new window will appear and show's you the path)
+
+
+Legends:
+* comands
+- in work

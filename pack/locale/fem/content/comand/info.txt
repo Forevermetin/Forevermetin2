@@ -1,0 +1,8 @@
+List of Info Comands:
+The comands starts with "/"
+
+Example: /info minimap
+
+Info:
+ > minimap
+ > solitary

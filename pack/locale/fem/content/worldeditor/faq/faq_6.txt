@@ -1,0 +1,41 @@
+Welcome to FAQ 6
+
+Don't you see Sura or the Ninja? It is a little problem and can be fixed quickly.
+
+Show Sura and Ninja how it works
+--------------------------------
+
+So that you don't have to unzip or download I imported everything into
+Forevermetin2. Which means you can have the files exported.
+
+With the command:
+ - /create worldeditor
+
+Forever Metin2 exports everything you need. No other changes are anticipated.
+The whole thing takes a few seconds, so please a little patience.
+
+How to fix the error yourself:
+--------------------------
+Unzip pc.epk * eix and copy the following into directory ymir work:
+
+pc / assassin
+------------
+ - pc / assassin / general
+ - pc / assassin / general / walk.gr2
+ - pc / assassin / general / walk.msa
+ - pc / assassin / assassin_novice.gr2
+ - pc / assassin / assassin_face.dds
+ - pc / assassin / assassin_5_1.dds
+
+pc / sura
+--------
+ - pc / sura / onehand_sword
+ - pc / sura / onehand_sword / wait.gr2
+ - pc / sura / onehand_sword / wait.msa
+ - pc / sura / sura_5_1.dds
+ - pc / sura / sura_face.dds
+ - pc / sura / sura_novice.gr2
+
+Best regards 
+iAce
+

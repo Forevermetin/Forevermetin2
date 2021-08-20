@@ -1,0 +1,57 @@
+Files to change in "pack/root"
+
+ 1. constinfo.py
+ 2. uitooltip.py
+
+Before we get started, we need to know what prices what color should be. 
+
+I work with flyfiles and there I have the following price color:
+----------------------------------------------------------------
+500.000+		= grp.GenerateColor(1.0, 0.7843, 0.0, 1.0) 
+50.000+		= grp.GenerateColor(0.85, 0.85, 0.85, 1.0)
+1+		= grp.GenerateColor(0.7, 0.7, 0.7, 1.0)
+
+grp.GenerateColor	>>>	What this means is explained again here
+https://www.elitepvpers.com/forum/metin2-private-server/3356020-grp
+generatecolor-ndern.html
+
+In flyfiles I have 1,999,999,999 Yang as the maximum yang. So I don't have too
+many options, but I do have options. I would like to have it followed like:
+
+ - 1 - 49K		= gray		grp.GenerateColor(0.7, 0.7, 0.7, 1.0)
+ 
+ - 50K - 499K	= whitegray	grp.GenerateColor(0.85, 0.85, 0.85, 1.0)
+ 
+ - 500K - 99KK	= yellow		grp.GenerateColor(1.0, 0.7843, 0.0, 1.0)		
+ 
+ - 100KK - 499KK	= orange		grp.GenerateColor(1.0, 0.5, 0.0, 1.0)
+ 
+ - 500KK - 999KK	= purple		grp.GenerateColor(0.7, 0.3, 0.8, 1.0)
+
+
+1) Constinfo
+Search:
+HIGH_PRICE = 500000
+
+Ad before:
+EXTRA_HIGH_PRICE = 500000000
+VERY_HIGH_PRICE = 100000000
+
+2) uiTooltip
+Search for:
+	HIGH_PRICE_COLOR = SPECIAL_TITLE_COLOR
+
+Add before:
+	EXTRA_HIGH_PRICE_COLOR = grp.GenerateColor(0.7, 0.3, 0.8, 1.0)
+	VERY_HIGH_PRICE_COLOR = grp.GenerateColor(1.0, 0.5, 0.0, 1.0)
+
+Search for:
+		if price>=constInfo.HIGH_PRICE:
+			return self.HIGH_PRICE_COLOR
+
+Add before:
+		if price>=constInfo.EXTRA_HIGH_PRICE:
+			return self.EXTRA_HIGH_PRICE_COLOR
+		if price>=constInfo.VERY_HIGH_PRICE:
+			return self.VERY_HIGH_PRICE_COLOR
+

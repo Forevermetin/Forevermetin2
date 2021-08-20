@@ -1,0 +1,16 @@
+What should I consider when mapping?
+
+There are no limits to your creativity, but Metin2 does. You shall know that too
+much detail can lead to lags. Most lagged .spt and .mse (MDE) files, i.e. trees and
+effects. But there are also objects that can lead to lags, very large objects. I
+don't know much about to give even more information on this.
+
+Just make sure that you know what you are placing on your map. It brings not if
+you place objects on your map without a plan. Choose it wisely and think about
+why the object should be placed here. At the beginning it is difficult, otherwise
+the map will look empty, but you will Realize over time that you don't necessarily
+to have 1000 trees there, so that the map looks good.
+
+
+Kind regards
+iAce

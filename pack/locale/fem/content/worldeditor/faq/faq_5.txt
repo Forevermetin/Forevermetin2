@@ -1,0 +1,33 @@
+Welcome to FAQ 5
+
+Which is the best to create a minimap I honestly can not say, because all versions
+crashed with me after I wanted to create a minimap for my 10x10 map.
+
+Create minimap this is how it works with "MartySama WorldEditor"
+-------------------------------------------------------------
+ - Press the "T" key in WorldEditor
+ - Now press Insert or F6
+ - CTRL + S
+ - Save Atlasmap
+
+Two mini maps are created
+ - Large
+ - Small
+
+The large minimap will be too big for your atlas so I recommend resizing it. As an
+an example I'll take a 2 x 2 map. I export one 2 x 2 minimap, this has the size: 
+512 x 512 well, the best thing I can do is make the minimap smaller a little bit.
+256 x 256 would be a good size.
+
+Tipps
+-----
+1) To export a nicer minimap, I want you to enlarge the textures in textureset. Say
+i have a mountain texture and this is 3 x 3, now:
+
+I set the texture to [0.5 x 0.5] or [1.0 x 1.0]
+
+2) after you have finished your map, it is best to reload it without fog or anything
+else. Or rather, restart WorldEditor.
+
+Best regards 
+iAce

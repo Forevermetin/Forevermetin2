@@ -1,0 +1,39 @@
+title_dashboard	Dashboard
+button_about	About
+button_changelog	Changelog
+button_comands	Comands
+button_faq	FAQ
+button_donate	Donate
+button_feedback	Feedback
+button_options	Options
+button_source	Source
+title_tool	Patcher
+button_patchwork	WorldEditor Work
+button_teampatcher	Teampatcher
+label_file	File
+label_status	Status
+title_section	Section
+button_pserver	Metin2 Pserver
+button_worldeditor	Worldeditor
+button_profinder	Profinder
+button_play	Play
+button_pause	Pause
+button_stop	Stop
+label_revision	Rivision
+title_ace	iAce Say's
+config_title	Config
+music_label	Loading Music
+music_label_on	ON
+music_label_off	FF
+config_accept	Reset
+uisounds_label	UI-Sounds
+menu_title	Menu
+menu_info	Info
+menu_credit	Credit
+menu_enterpage	Enterpage
+menu_exit	Exit
+menu_back	Back
+info_current	Current
+info_latest	Latest
+info_update	Update
+button_send	Send

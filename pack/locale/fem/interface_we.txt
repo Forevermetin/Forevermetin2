@@ -1,0 +1,41 @@
+title_dashboard	Dashboard
+button_information	Information
+button_wepro	WorldEditor Pro
+button_weclean	WorldEditor Clean
+button_autodesk	Autodesk 3DS
+button_games	Games for Rip
+button_aio	AIO
+title_useful	Useful
+button_mdatr	MDATR
+button_prp	PRP
+title_faq	FAQ
+button_faq1	F1
+button_faq2	F2
+button_faq3	F3
+button_faq4	F4
+button_faq5	F5
+button_faq6	F6
+button_faq7	F7
+button_faq8	F8
+button_faq9	F9
+button_faq10	F10
+button_faq11	F11
+button_faq12	F12
+button_faq13	F13
+button_faq14	F14
+button_faq15	F15
+button_faq16	F16
+button_faq17	F17
+button_faq18	F18
+button_faq19	F19
+button_faq20	F20
+title_wegold	WorldEditor Gold
+label_building	Building
+label_effect	Effect
+label_stone	Stone
+label_vegetation	Vegetation
+label_texture	Texture
+label_dungeon	Dungeon
+label_tree	Tree
+label_decoration	Decoration
+label_environment	Environment

@@ -1,0 +1,3 @@
+Personally, I mostly work with winscp, but filezilla also has its good points.
+
+Website: https://filezilla-project.org/

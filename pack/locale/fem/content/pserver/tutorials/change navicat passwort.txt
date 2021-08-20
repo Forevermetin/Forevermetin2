@@ -1,0 +1,60 @@
+Tutorial - Change navicat password
+
+Step 1: We need to stop the mysql server
+------------------------------------
+
+     Comand:
+      - service mysql-server stop
+
+Step 2: Start MySQL Server in Safe Mode without entering a password and
+without a network. MySQL is now started in safe mode without a password
+query. Since the database can now be accessed without a password, –skip
+networking also prohibits network access (but none must be recommended).
+----------------------------------------------------------------------
+
+     Comand:
+      - mysqld_safe --skip-grant-tables --skip-networking &
+
+Step 3: Connect to the MySQL database
+-----------------------------------
+
+     Comand:
+      - mysql -u root
+
+Step 4: Reset MySQL root password
+--------------------------------
+
+     Comand:
+      - use mysql;
+
+     Info:
+     Change password with the following command
+
+     Comand:
+      - update user set password=PASSWORD('mypassword') where User='root'
+
+     Info:
+      Then perform a flush privileges and exit the MySQL console
+
+     Comand:
+      - flush privileges;
+      - quit
+
+Step 5: Stop MySQL Server
+------------------------
+
+     Comand:
+      - service mysql-server stop
+
+Step 6: Start MySQL Server in normal mode and test connection establishment
+The MySQL server is now started again in "normal" mode (without safe mode)
+-----------------------------------------------------------------------
+
+     Comand:
+      - service mysql-server start
+
+     Info:
+     A login should therefore be possible with the new password
+
+     Comand:
+      - mysql -u root -p

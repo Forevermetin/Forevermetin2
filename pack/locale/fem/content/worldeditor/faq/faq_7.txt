@@ -1,0 +1,38 @@
+Welcome to FAQ 7
+
+If you want an empty ATTR, so use please the Forevermetin2 ATTR-Creator.
+Generally I recommend you to work with empty ATTR. The reason is simply:
+WorldEditor. WorldEditor exports the correct ATTR, but it does postponed
+collisions there. It leads to that in some places unwanted spawns occur or 
+no spawns at all. I haven't tested it with MartySama v40 yet.
+
+Create ServerAttr how it works
+-----------------------------
+
+ • Block: Neither player nor monster can enter this marker
+ • Safe: This stands for the save zone
+ • Water: You can fish & campfire is not possible at this point.
+
+Have you edited the ATTR and want it now? Test or export?
+
+ - Save ServerAttr
+ 
+The file is saved in the map folder.
+
+Tipps
+-----
+Since WorldEditor exports buggy ATTR, I have did the following when I mapped:
+
+Create and use empty MDATR
+---------------------------
+Don't place the monsters sloppy, just here and there, over there and here. 
+95% do that
+
+I usually take the brush size 0, so it happens to fewer bugs.
+
+ServerATTR is used twice, once by the server and clients. At the client, the
+collisions are not postponed. By client I mean where the blockages are.
+
+Best regards 
+iAce
+

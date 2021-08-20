@@ -1,0 +1,26 @@
+Welcome to FAQ 4
+
+Edit standard maps how it works
+------------------------------
+
+That is needed
+-------------
+    - Map
+    - Textures
+    - Textureset
+    - Property
+    - Environment
+    - Zone
+    - Tree
+
+Method
+-------
+    - Select the map you want to edit
+    - Copy the map and paste it into "ymir work".
+    - Start WorldEditor now and load the map.
+
+If you did everything right, and you didn't missing some files
+the map is displayed correctly and you can edit them in peace.
+
+Best regards 
+iAce

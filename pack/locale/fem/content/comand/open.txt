@@ -1,0 +1,7 @@
+List of Open Comands:
+The comands starts with "/"
+
+Example: /Open export
+
+Open:
+ > export

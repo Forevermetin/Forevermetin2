@@ -1,0 +1,7 @@
+How to use this feature:
+First click on: Property Path
+select your map with: Map Path
+now start searching
+
+more about this concept?  
+- /info profinder

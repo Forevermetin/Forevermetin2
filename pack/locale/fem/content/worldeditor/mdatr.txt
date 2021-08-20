@@ -1,0 +1,16 @@
+Tutorial:
+------
+ - Select all objects that have an empty collision
+ - Drag & Drop the objects onto the MDATR button
+ - wait a few seconds
+
+The MDATR is created, and is saved there where the GR2 files are located.
+
+Note:
+-----
+FEM2 exports an empty MDATR and names it then around. 
+It is an empty GR2 collision, and has no further effect on the game.
+
+
+Best regards 
+iAce 

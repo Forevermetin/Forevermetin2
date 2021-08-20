@@ -1,0 +1,10 @@
+List of Export Comands:
+All files will be exportet in (export/)
+The comands starts with "/"
+
+Example: /export waterfall
+
+Export:
+ > waterfall
+ > progen
+ > coordinator

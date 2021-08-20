@@ -1,0 +1,16 @@
+Here you can find the official website of notpad ++
+
+Website: https://notepad-plus-plus.org/
+
+
+Mijago has made a metin2 extension for notepad ++ and you can easily export it.
+
+Comand: /export mijago++
+
+Martysama also has an extension too for notepad ++
+Comand: /export martysama++
+
+Credits and everything else can of course be found in the imported files.
+
+Kind regards
+iAce

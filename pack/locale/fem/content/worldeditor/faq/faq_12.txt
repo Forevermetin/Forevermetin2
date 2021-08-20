@@ -1,0 +1,55 @@
+Welcome to FAQ 12
+
+Removing individual objects on the map is possible on fastest via WorldEditor.
+You can also do everything highlight and then press DELETE. Most of the time,
+you only want to remove one object completely, and the problem is that our
+objects are placed all over the map, and around it there is something else. The
+fastest method would not be WorldEditor or direct, but Property.
+
+Removing objects one by one is the way to do it:
+--------------------------------------------
+
+Let's just say that I've been all over the desert
+	
+     > "cactus_01.prb" placed. 
+
+WorldEditor accesses the Property The .prb file then accesses to 
+
+     > "d:/ymir work/zone/myfile.gr2". 
+
+This is what my "cactus_01.prb".
+-----------------------------
+    YPRT
+    3031989151
+    building file "d:/ymir work/zone/n/
+    desert/cactus_01.gr2"
+    property name "cactus_01"
+    propertytype "Building"
+    shadowflag "1"
+
+Now, if we were to delete the object from "zone", that is is the object our .prb
+accesses, and that is in my case "cactus_01.prb"
+
+ - "d:/ymir work/zone/n/desert/cactus_01.gr2"
+
+So WorldEditor will still show the file but invisible.
+
+this is how to remove at the next WorldEditor start the object completely from
+the map. 
+
+So once again:
+-------------
+ - Backup from the *.prb 		(property/cactus_01.prb)
+ - Delete the *.prb			(property/cactus_01.prb)
+ - Restart WorldEditor
+ - Load your map
+ - Save the map
+
+After you have saved the map, you can use the object normally again, and it will
+no longer appear on the map.
+
+There is another way to get objects but this method sticks.
+
+Best regards
+iAce
+

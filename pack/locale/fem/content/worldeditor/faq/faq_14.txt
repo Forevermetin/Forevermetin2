@@ -1,0 +1,24 @@
+Welcome to FAQ 14
+
+Some objects have textures with them and others do not. If the textures are
+there and the objects don't have any or are white, just read on.
+
+You can export the objects differently with 3ds max. one method is to include the
+texture in the .gr2 file, i.e. the model. I only recommend this method for textures
+that are not used more than 10 times, otherwise it would be a waste of resources.
+
+Otherwise, you choose a texture from any path such as ymir work / npc /. Then all
+textures are exported, so you can also edit them, and change them if necessary
+without having to always export the .gr2.
+
+What you can do:
+----------------
+
+ - Open your model with granny viewer.
+ - Navigate to < Texture List >
+
+so now check the paths. Below you see "Texture", here you can see if you have
+this texture and if it is in the right path.
+
+Best regards 
+iAce

@@ -1,0 +1,8 @@
+List of Create Comands:
+The comands starts with "/"
+
+Example: /create worldeditor
+
+Create:
+ > worldeditor
+ > mapfolder
