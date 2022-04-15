@@ -1,0 +1,27 @@
+Metin2 2004 Client
+
+Download Thread
+ - https://metin2.dev/board/topic/45-metin2-2004-beta-client/
+
+Download via Workupload
+ - https://workupload.com/file/6FjGqTj3Ppp
+
+VirusTotal (Workupload file)
+ - https://bit.ly/3k3Tadi
+
+[Content]
+The content should be a .exe file that you should somehow execute, or rather
+have something installed.
+ 
+[Own Experience]
+I tried to install it, and it also installed something, but not what I wanted, or just
+some of what I wanted. So I let it be.
+
+[Disclaimer]
+I am not liable for damage to your PC or other devices that come into contact 
+with this file. Once you have downloaded it, you are responsible for checking 
+the file again. Nothing happened to me, otherwise I would have stated it.
+
+
+Best regards 
+iAce

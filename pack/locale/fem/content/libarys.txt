@@ -1,0 +1,12 @@
+DLL und ihre nützung für Forevermetin2:
+
+Script:
+Da ich gerne herum spiele, dachte ich mir warum
+nicht Metin2 aufbau übernehmen auch wenn der Code
+keinen anderen Sinn haben wird?.. in Script ist 
+die [index] datei implementiert und auf diese Datei
+greift wiederrum Forevermetin2. Was heisst: Wenn da
+irgendetwas anders stehen würde, würde das Tool nicht
+mehr funktionieren. Zudem gibt es kleine Codeteile die
+Praktisch sind wenn man diese in eine DLL hat.
+

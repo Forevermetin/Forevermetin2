@@ -1,0 +1,37 @@
+Ingame Map Editor  (DE-GERMAN)
+
+Whether you can call this a tool, I can not say exactly, but ingame you have a kind
+of GUI where you can set everything. Call via a shortcut such as F8 or implement
+it directly in your game.py. This file must be called mapeditor.py for the GUI to
+appear.
+
+[File Info]
+File:		.rar (Winrar)
+Name:		ingame_map_editor
+Size:		8.57 KB (.rar size)
+Autor:		musicinstructor
+Profile:		https://bit.ly/3tVa8NX
+Thread:		https://bit.ly/2Xxxy0s
+Download:	/export ingame map editor
+Password:	No password
+Create Date:	2012
+
+[Content]
+ 
+1 - mapeditor.py
+
+[Own Experience]
+I like this Python script. Working with it is also fun, but I haven't used it for a very
+long time. To finish the map, i.e. details etc, I can really recommend it. Try it for
+yourself. Copy your property folder and paste it into map_object_editor/
+
+[Disclaimer]
+I am not responsible for damaged devices, stolen accounts, or hacked identities.
+Everything that is in this file or exe is in www. to find. these are original files, I
+haven't changed them. There is a VirusTotal report, I had it checked by
+
+    - www.virustotal.com
+
+
+Best regards 
+iAce

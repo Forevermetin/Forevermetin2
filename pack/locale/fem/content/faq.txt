@@ -1,0 +1,31 @@
+Here I list all questions that come to my mind regarding Forevermetin2
+
+[ TOOL ]
+Q1: How do I update Forever Metin2?
+        During an update, the tool shows a question mark button. At the top
+        left is the update button. However, It's there so you can update live.
+
+Q2: Can I minimize the tool?
+        Yes, ESC or Doppelclick Forevermetin2 Title.
+
+03: How can i close feedback window?
+        Doppleclick the Title.
+
+Q4: What are all these text files for?
+        So that you can translate this yourself into your language. Or you
+        are welcome to correct, google translator is terrible. The tool accesses
+        this content and plays it back. If these files do not exist, some things do
+        not work. With later updates I will see how I can do this differently.
+
+[ DLL'S ]
+Q1: How do I get dll's that I don't have?
+        You will get these dll's over time.
+
+Q2: What do i need the dll's for?
+        There are different download links, and I always update them.
+
+Q3: But why a dll?
+        First of all for fun, secondly really practical and clean.
+
+Kind regards
+iAce

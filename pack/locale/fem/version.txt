@@ -9,6 +9,7 @@ March 2021 - R2.0
  - Much of the content can be edited and saved directly (F1)
  - Fonts and colors have been adjusted and changed a little
  - Latest worldeditor and the associated files implemented (*info worldeditor)
+ - New downloads and new files. (worldeditor clean v2)
  - Syslog inserted, but this is still in progress (*logs)
  - New commands available, see commands
  - Music list adjusted (only oldschool metin2 music)

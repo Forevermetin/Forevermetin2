@@ -1,0 +1,39 @@
+Target Information Extended
+
+I downloaded this system from metin2downloads. the file was neither created 
+by me nor repackaged. I think most people are aware of what kind of system this
+is, and for those who don't know it, a little explanation is enough. 
+
+Through this system, players can right-click on monsters, and between of the
+name and live there is a question sign. if you click on it, the information about this
+monster appears, such as what it drops.
+
+[File Info]
+File:		.rar(Winrar)
+Name:		target_information_extended
+Size:		29.8 KB (.rar size)
+
+Autor:		
+If you are the author, please contact me best and I will insert your profile here
+
+Download:	/export target info
+Password:	No password
+Create Date:	06.2016
+
+[Content]
+ 
+This file contains only text and image files.
+
+[Own Experience]
+I installed it and it worked, but I had to massage a bit. i mean there was a 
+mistake here and there. looks up in thread and does not overlook my post.
+
+[Disclaimer]
+Everything that is in this file does not come from me. I am not responsible for any
+damage to your PC. The file is imported into Forevermetin2 Local, and is clean.
+Neither I nor the creator of the file are liable for errors on your server. Always
+make backups before you import something new into your source.
+
+
+Best regards 
+iAce

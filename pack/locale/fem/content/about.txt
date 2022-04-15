@@ -1,0 +1,66 @@
+Hello and welcome to Forevermetin2
+
+Thank you for choosing this and I wish you a lot of fun. If you like, you can 
+read this to end and get your feedback later. I will explain how I came to
+Forevermetin2 and how it has developed over time.
+
+I do not publish and code the tool for financial or profitable reasons, there is
+a reason, and that is my dear friend, love, and i get this back from those who
+appreciate every detail. Why I say that is, I am working on it alone and I
+really enjoy it, I mean all these classes and directories, as well as metin2 has it.
+You will understand that, even if metin2 is slowly dying, The game is
+and will be my favorite game.
+
+Kamazucka:
+That was the name of the first tool I ever released.
+You can find it here: https://bit.ly/2SNit57
+
+How I came to KamaZucka is still a mystery to me today, and no it doesn't
+come from Kamasutra, chill. The tool at that time, KZ, had the same concept
+as that of today, but it was not as advanced as Forevermetin2. My goal has
+always been to provide a database for people who had enough of it to look
+for Metin2 resources or beg for it. That's why i start to learning design and
+so I was able to publish a few things that can still be found today. 
+
+With KZ, you could simply download bug fixes and everything else and apply
+them directly. Today, it's about more because I've expanded the concept over
+time. I also changed the name from KamaZucka to CP-Patcher, later Mapper,
+and today it is Forevermetin2.
+
+The goal or concept was always the same, namely a small database of
+important Metin2 files. A starter set for newcomers or even advanced 
+users. I also need Forever Metin2 myself, and every time I find something
+small, I put it in there so I always have it.
+
+Examples:
+
+   - *CREATE MY OWN SERVER-
+   I do not support any pserver and do not run any myself. But in the event of 
+   a change in mind, I have the necessary files to make a fun server for me 
+   and maybe my few friends from old times. Itemshop free, of course,
+   because the costs would be shared. There are no direct downloads offered,
+   only the download links.
+
+   - *COMPLETE CLIENT-
+   The concept here is to fix the old metin2 things. In other words, I find a fix
+   for a boar that hovers in the air, so it comes directly into npc. NPC can then
+   be patched with a command. the complete pack folder is unzipped, and
+   commands can be used to patch the pack files that you want.
+   Find more about the dll files which this command: info dll
+
+   - CREATE MY OWN MAP -
+   In the world editor section you will find everything you need to create your
+   own map. There are of course tutorials too.
+
+I prefer to work alone but writing with people from time to time is fun,
+especially people who appreciate you. Alone and still needing help with
+different systems or small questions. There are few who have helped and
+may help again, but I'm all the more grateful for it, if only one helps.
+
+Legend:
+(*)will take a lot of time to realize it.
+
+To be continued
+
+Kind regards
+iAce

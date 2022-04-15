@@ -1,0 +1,46 @@
+Metin2 Kori-files (DE-GERMAN)
+
+This is the 1.5 version of Kori. I ask you to always carry out a virus scan. 
+I will give you one, but 2 times control is better than 1 time.
+
+[File Info]
+File:		.exe (Winrar)
+Name:		fem_kori_files_1.5
+Size:		2.84 GB (.exe size)
+Autor:		kori.(link to profile is coming soon)
+VirusTotal:	https://bit.ly/3BRYuGC (Read Disclaimer)
+Download:	https://bit.ly/3tvcX8p (Mega)
+Password:	forevermetin2
+Create Date:	2020
+
+[Content]
+ 
+1 - game2.tar.gz
+2 - Koridev_Client_1.5.rar
+3 - Koridev_Clientsource_1.5.1.rar
+4 - Koridev_serversource_1.5.1.tar.gz
+5 - Koridev32_1.3 + 64Bit Compatible.rar
+6 - mysql.tar.gz
+
+[Own Experience]
+I've never really worked with these files, but let's say they were stable.
+What keeps me from using such files is the origin of these files. Leaks etc. are
+not excluded, but hello, I am not familiar with codes, so test them yourself and
+give feedback.
+
+[Disclaimer]
+Everything that is in this .exe file can be found on the worldwide web. I haven't
+changed it, which means what's in there doesn't come from me. I am not liable 
+for damage to your PC, so I ask you for the 2nd time to do your own virus scan. I
+am not responsible for this link either, it is a kind of forwarding and can be
+reported at any time and deleted immediately. It will only be deleted if you are the
+owner of this pack, and you know in detail what it is, or proof that it belongs to
+you.
+
+The file was packed with winrar / Tuesday, 17th. March 2020 
+From then on the file will not come from forevermetin2, but from a third party.
+Newer versions should definitely be checked more closely
+
+
+Best regards 
+iAce

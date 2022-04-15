@@ -7,7 +7,8 @@ With this program I did the following myself or I do the following with it:
    There are cool effects that you can apply.
  
 of course these are not the only features of this program. Most of them even 
-started to design with paint.net and gimp and these programs are still used today.
+started to design with paint.net and gimp and these programs are still used
+today.
 
 Website: https://www.getpaint.net/
 

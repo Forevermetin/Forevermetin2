@@ -1,0 +1,19 @@
+The creation of notes:
+I built in this function because I first had to create a .txt and open it with notpad.
+This note function saved me time and I could write down my ideas immediately
+without forgetting them. Whoever wants to use it should  do it and whoever
+doesn't shouldn't. I would be happy if it is used :)
+
+And that's how it works:
+
+[ 1 ]
+Enter your note here in the [Create Note] box. (This file and all other files are
+loaded and saved using the same principle.)
+
+[ 2 ]
+Enter the name for your note in the input box without a file extension.  All notes
+are saved with the file extension .txt, all other extensions are not displayed.
+
+[ 3 ]
+Press enter on your keyboard and save your note. If there is already a note with
+the same name, it can be opened and edited.

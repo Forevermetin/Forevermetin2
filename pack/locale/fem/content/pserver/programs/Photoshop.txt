@@ -1,0 +1,24 @@
+It doesn't work without Photoshop, because that's a must if 
+you're a designer, mapper or even a server administrator.
+
+Photoshop 1 is enough for our metin2 purposes if it even exists. 
+But so that we can also edit and export DDS files and all others
+it is best to use Photoshop CC 15.
+
+Download Photoshop CC 15 here:
+https://creativecloud.adobe.com/apps/download/photoshop
+
+Select Adobe Photoshop CC 15 if you can and copy this file:
+
+   - /export photoshop cc15
+
+in the original path from program.
+
+Before you copy the file in there, you should rename it to:
+
+   - photoshop_cc15_amtlib.dll (exported file)
+   - amtlib.dll (rename it to this)
+
+make a backup of your old amtlib.dll file and replace it with the new one.
+
+ 

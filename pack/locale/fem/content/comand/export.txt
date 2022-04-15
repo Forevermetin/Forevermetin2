@@ -5,6 +5,16 @@ The comands starts with "/"
 Example: /export waterfall
 
 Export:
+ > autopatcher
+ > dungeon lightmap
+ > ingame map editor
+ > map converter
+ > martysama++
+ > mijago++
+ > noesis tutorial
+ > object animation
+ > photoshop cc15
+ > target info
  > waterfall
- > progen
- > coordinator
+ > yang display info
+ 

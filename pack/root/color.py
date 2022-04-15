@@ -4,7 +4,7 @@ desc_fail = #DD4132
 desc_info = #D5AE41
 desc_normal = #D1B894
 desc_tooltip = #EAE6DA
-disc_error = #BFD641
+desc_error = #BFD641
 
 
 

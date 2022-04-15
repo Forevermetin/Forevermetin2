@@ -1,0 +1,31 @@
+Metin2 TMP4 Reference Files (Global)
+
+The files come from Metin2Dev, and are recommended. Virusscan is not
+necessary because metin2dev does not allow viruses.
+
+[File Info]
+File:		various
+Name:		40250 Reference Serverfile
+Size:		3+ GB
+Autor:		TMP4  (Use comand: /info TMP4)
+VirusTotal:	Read Disclaimer
+Download:	Use comand: /download TMP4
+Password:	No password
+Release:		2021 
+
+[Content]
+ 
+Complete package.
+
+[Own Experience]
+I've worked on these files from time to time and they mostly ran smoothly. 
+The files are highly recommended as base files, but work is required.
+
+[Disclaimer]
+This is not a "reupload". Everything you will find, you will find on metin2dev. In my
+opinion, a virus scan is not necessary, since TMP4 would have been blocked long
+ago if it planned to do something like that.
+
+
+Best regards 
+iAce

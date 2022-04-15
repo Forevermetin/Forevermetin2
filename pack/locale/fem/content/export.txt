@@ -1,0 +1,24 @@
+Here I can find what I have exported:
+
+Map's: 		export/map
+Texture's: 	export/texture
+Skybox's:	export/skybox
+Object's:		export/object
+Npc's:		export/npc
+Pet's:		export/pet
+Monster's:	export/monster
+Weapon's	export/weapon
+Armor's		export/armor
+Item's		export/item
+Icon's		export/icon
+Tutorial's	export/tutorial
+Plugin's		export/plugin
+Program's	export/program
+System's	export/system
+Tool's		export/tool
+
+
+Open the path with this comand: /open export
+
+You can delete the listed directories at will
+if you no longer need them.

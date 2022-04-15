@@ -1,0 +1,20 @@
+pserver_dashboard_title	Daschboard
+pserver_icondatabase_btn	Icon Database
+pserver_iaceresources_btn	Useful Links
+pserver_usefullthreads_btn	Useful Threads
+pserver_toplists_btn	Metin2 Toplists
+pserver_adminpanel_btn	Adminpanel
+pserver_createbackup_btn	Create Backup
+pserver_boards_title	Boards
+pserver_elitepvper_btn	Elitepvpers
+pserver_metin2dev_btn	Metin2Dev
+pserver_m2downloads_btn	Metin2Downloads
+pserver_turkmmo_btn	TurkMMO
+pserver_masterlist_title	Masterlist
+pserver_complet_label	Complet
+pserver_client_label	Client
+pserver_systems_label	Systems
+pserver_tools_label	Tools
+pserver_programs_label	Programs
+pserver_tutorials_label	Tutorials
+pserver_masterlist_information_btn	Masterlist Information

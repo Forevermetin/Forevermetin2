@@ -1,0 +1,44 @@
+Autopatcher (DE-GERMAN)
+
+You should know that this was one of the first patchers to be released by . 
+It's very old, but oldschool never dies out.
+
+[File Info]
+File:		.rar (Winrar)
+Name:		eternexus_1.3
+Size:		9.46 MB (.rar size)
+Autor:		crysus.net
+VirusTotal:	https://bit.ly/3txPeo2 (Read Disclaimer)
+Download:	https://workupload.com/file/eAGQqsaWjBa
+Password:	No password
+Create Date:	2012 - 2013?
+
+[Content]
+ 
+1 - CONFIG
+2 - EterNexus.exe
+3 - EterPackAPI.dll
+4 - libgcc_s_dw2-1.dll
+5 - mingwm10.dll
+6 - QtCore4.dll
+7 - QtGui4.dll
+8 - QtNetwork4.dll
+9 - QtWebKit4.dll
+
+[Extras] > x')
+1 - syserr.txt
+2 - syslog.txt
+
+[Own Experience]
+I have only worked with these archvier and can therefore only recommend it.
+
+[Disclaimer]
+I am not responsible for damaged devices, stolen accounts, or hacked identities.
+Everything that is in this file or exe is in www. to find. these are original files, I
+haven't changed them. There is a VirusTotal report, I had it checked by
+
+    - www.virustotal.com
+
+
+Best regards 
+iAce

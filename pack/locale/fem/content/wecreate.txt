@@ -1,0 +1,26 @@
+WorldEditor installation
+
+Well, you've made the first step and almost finished setting up the "WE". 
+If you have Forevermetin2 in drive (D), please disregard point 1.
+
+[ Set up WorldEditor ]
+   All you need is a drive bearing the letter (D). You don't have to create one,
+   a USB stick is sufficient. With the new WorldEditor's you don't have to.
+   However, I recommend that you work with a (D) drive. How to change drive
+   letters is shown below. Please do not make any other changes if you lack
+   experience.
+	
+   Google:
+      > https://letmegooglethat.com/?q=create+or+change+partition
+
+
+[ Get started with WorldEditor ]
+   The WorldEditor you created is still empty. To change that download
+   worldeditor clean or worldeditor pro. If you need help please see the
+   WorldEditor Section. You can select one of the available world editors
+   and start mapping. 
+
+Should you find any errors or missing files, please let me know.
+
+Kind regards
+iAce

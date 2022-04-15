@@ -1,0 +1,38 @@
+Map Converter (DE-GERMAN)
+
+This map converter by blackyuko, requires experience and patience. 
+
+[File Info]
+File:		.rar (Winrar)
+Name:		map_converter_by_blackyuko
+Size:		1.41 MB (.rar size)
+Autor:		blackyuko
+Download:	/export map converter
+VirusTotal:	https://bit.ly/3CqpMEb
+Password:	No password
+Create Date:	2013 ( 30.12.2012)
+
+[Content]
+ 
+1 - lang
+2 - lzo.dll
+3 - m2.exe
+4 - Map Converter.exe
+5 - server_attr
+6 - server_attr.png
+
+[Own Experience]
+I myself have hardly worked with this program. General Photoshop Mapping I
+avoided, because it cost nerves. But I used it once or twice, and it helped me
+further. Test it yourself, and don't think this tool is out of date.
+
+[Disclaimer]
+I am not responsible for damaged devices, stolen accounts, or hacked identities.
+Everything that is in this file or exe is in www. to find. these are original files, I
+haven't changed them. There is a VirusTotal report, I had it checked by
+
+    - www.virustotal.com
+
+
+Best regards 
+iAce
