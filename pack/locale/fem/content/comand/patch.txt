@@ -2,9 +2,15 @@ List of Patch Comands:
 You can patch the current files that i find on metin2dev.
 The comands starts with "/"
 
+Note:
+These commands can temporarily only be used by users who
+have a data.dll from me. The standard DLL does not include any
+downloads.
+
 Example: /patch bgm
 
-Patch:
+Metin2 Client
+=============
  > bgm
  > effect
  > environment
@@ -34,5 +40,23 @@ Patch:
  > ui
  > uiscript
  > zone
- 
-The files will be downloadet in this path (Forevermetin2/pack/)
+
+The files will be downloadet in this path (metin2/...)
+
+Once I find a good patch server, multiple users can use it. Maybe
+someone will sponsor us a patch server, then you can all have the
+Data.dll that contains all these important downloads.
+
+Forevermetin2
+==============
+ > worldeditor clean 
+   (will be adjusted and will come later.)
+
+ > worldeditor officiall 
+   (will be adjusted and will come later.)
+
+You also need a login and data.dll for these two. These 2 patches can
+be found in the original on metin2dev.
+
+Best regards
+Ace

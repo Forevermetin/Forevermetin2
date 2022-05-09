@@ -14,11 +14,13 @@ Icon's		export/icon
 Tutorial's	export/tutorial
 Plugin's		export/plugin
 Program's	export/program
-System's	export/system
+System's		export/system
 Tool's		export/tool
 
 
 Open the path with this comand: /open export
 
-You can delete the listed directories at will
-if you no longer need them.
+You can delete the listed directories at will if you no longer need them.
+
+Best regards
+Ace

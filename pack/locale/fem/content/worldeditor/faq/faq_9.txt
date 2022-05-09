@@ -19,4 +19,4 @@ The following are known to have crashes:
      until it crashes, but then please always save.
 
 Best regards 
-iAce
+Ace

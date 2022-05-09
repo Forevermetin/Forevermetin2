@@ -16,12 +16,12 @@ Create Date:	2020
  
 1 - Binary Source.7z
 2 - Bugfix.rar
-        After applying these bugfixes, I had errors. Please test it yourself
-        but make a backup beforehand.
+      After applying these bugfixes, I had errors. Please test it yourself
+      but make a backup beforehand.
 3 - Client Reworked.rar
 4 - Deloxone.txt
-        An important file. Once you've unpacked everything, be sure to take 
-        a look before doing anything different.
+      An important file. Once you've unpacked everything, be sure to take 
+      a look before doing anything different.
 5 - Unpacker.rar
 6 - FreeBSD9.2.7z
 7 - GermanTutorial.mp4
@@ -33,30 +33,28 @@ Create Date:	2020
 13 - Source.txt 
 
 [Own Experience]
-I've worked with a lot of files, but I didn't find any good ones in the German
-speaking forums. In the German-speaking community, these files are a good
-basis. What I must have said is you have to be careful with it. There are many
-things that have to or should be fixed, but for basis files, in order to start from 0
-why not :)
+I've worked with a lot of files, but I didn't find any good ones in the
+German speaking forums. In the German-speaking community, these
+files are a good basis. What I must have said is you have to be careful
+with it. There are many things that have to or should be fixed, but for
+basis files, in order to start from 0 why not :)
 
 [Disclaimer]
-I am not responsible for damaged devices, stolen accounts, or hacked identities.
-Everything that is in this file or exe is in www. to find. these are original files, I
-haven't changed them. There is a VirusTotal report, I had it checked by
+I am not responsible for damaged devices, stolen accounts, or hacked
+identities. Everything that is in this file or exe is in www. to find. these
+are original files, I haven't changed them. There is a VirusTotal report, I
+had it checked by
 
     - www.virustotal.com
 
-I have had the download link checked. Please see the download link and it is best
-to check it again yourself. 
+I have had the download link checked. Please see the download link
+and it is best to check it again yourself. 
 
 The file was packed with winrar / Tuesday, 17th. March 2020 
-From then on the file will not come from forevermetin2, but from a third party.
-Newer versions should definitely be checked more closely
+From then on the file will not come from forevermetin2, but from a
+third party. Newer versions should definitely be checked more closely
 
-And last but not least 
-
-    - I don't give any support.
-
+And last but not least: I don't give any support.
 
 Best regards 
-iAce
+Ace

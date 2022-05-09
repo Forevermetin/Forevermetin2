@@ -21,4 +21,5 @@ Before you copy the file in there, you should rename it to:
 
 make a backup of your old amtlib.dll file and replace it with the new one.
 
- 
+Best regards 
+Ace

@@ -26,16 +26,16 @@ most files are text files and images.
 
 [Own Experience]
 To be honest, I only worked with it once, and it was, tell me, rusted but ready 
-for use. But this is not about whether it works or is outdated. It's about the fact
-that it was one of the first patchers, and it deserves a certain respect.
+for use. But this is not about whether it works or is outdated. It's about the
+fact that it was one of the first patchers, and it deserves a certain respect.
 
 [Disclaimer]
-I am not responsible for damaged devices, stolen accounts, or hacked identities.
-Everything that is in this file or exe is in www. to find. these are original files, I
-haven't changed them. There is a VirusTotal report, I had it checked by
+I am not responsible for damaged devices, stolen accounts, or hacked
+identities. Everything that is in this file or exe is in www. to find. these are
+original files, I haven't changed them. There is a VirusTotal report, I had it
+checked by
 
     - www.virustotal.com
 
-
 Best regards 
-iAce
+Ace

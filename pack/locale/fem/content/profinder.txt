@@ -1,12 +1,12 @@
 Profinder and the idea behind it
 
 [ Profinder ]
-I want to be brief and explain directly how I came across Profinder and what 
-it is all about. A friend whose name I would like to mention with honor, Artur
-aka. KiLL MoveS. he inspired me, grr ..
+I want to be brief and explain directly how I came across Profinder and
+what it is all about. A friend whose name I would like to mention with
+honor, Artur aka. KiLL MoveS. he inspired me, grr ..
 
-Jokes aside, he coded several tools and I saw how useful they were. If I got 
-to him with an idea, he coded it for me. without wanting anything for it.
+Jokes aside, he coded several tools and I saw how useful they were. If
+I got to him with an idea, he coded it for me. without wanting anything for it.
 I mean, how many people do you know in the scene who would code you this
 for free? I'm talking about little things here, but those are the ones that matter
 most. Yes, there are, but unfortunately I don't know them, I mean I have no
@@ -19,14 +19,14 @@ Whatever.. here too a man of honor as he is otherwise.
 [ Idea ]
 The idea is very easy to explain, AIO (All in One).
 Means, I have a map here that I would like to have, and besides this map 
-there are 100 others, and there are so many objects in zone that I only need half
-of them for my map. 
+there are 100 others, and there are so many objects in zone that I only need
+half of them for my map. 
 
 [ With the help of Profinder, I can do the following ]
  - Find and export property (Finished)
- - Find and export envirnonment. (in my fantasy)
- - Find and export textureset (in my fantasy)
+ - Find and export textureset (In Work.. BUGGS)
  - Find and export terrainmaps (in my fantasy)
+ - Find and export envirnonment. (in my fantasy)
  - Find and export objects (in my fantasy)
 
 What the feature can currently do is list the property of a map, and export it
@@ -35,5 +35,5 @@ with all sub-folders in a separate directory (without changing the old ones).
 Everything else comes with time.
 do you want to help me? so get in touch with me.
 
-
-Kind regards Ace
+Best regards
+Ace

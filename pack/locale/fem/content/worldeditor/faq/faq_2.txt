@@ -1,8 +1,8 @@
 Welcome to FAQ 2
 
 Implementing your own objects using WorldEditor is quick and easy. 
-You can also do it manually create properties with Notpad ++, but it's real
-annoying, especially if you have over 100 objects.
+You can also do it manually create properties with Notpad ++, but it's 
+real annoying, especially if you have over 100 objects.
 
 Create property how it works
 ---------------------------
@@ -14,20 +14,19 @@ Create property how it works
  - Now press "New Object"
  - Enter a name (so that you have the overview)
 
-Wähle aus
+Select one
 ----------
-    • Tree	*.spt
+    • Tree		*.spt
     • Building	*.gr2
     • Effect	*.msa
     • Ambience	*.wav
 
-Have you selected one now? Now confirm with Accept and the property is
-created or that Object implemen-ted.
+Have you selected one now? Now confirm with Accept and the property
+is created or that Object implemen-ted.
 
-You can use the objects independently of WorldEditor to implement. You either
-do it manually or you use the property coded by Artur Generator. Property
-Generator is located in all packs. You can export "Property Generator" with
-this comand: /export progen
+You can use the objects independently of WorldEditor to implement. You 
+either do it manually or you use the property coded by Artur Generator.
+Property Generator is located in all packs. 
 
 Best regards 
-iAce
+Ace

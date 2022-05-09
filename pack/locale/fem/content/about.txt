@@ -4,11 +4,11 @@ Thank you for choosing this and I wish you a lot of fun. If you like, you can
 read this to end and get your feedback later. I will explain how I came to
 Forevermetin2 and how it has developed over time.
 
-I do not publish and code the tool for financial or profitable reasons, there is
-a reason, and that is my dear friend, love, and i get this back from those who
-appreciate every detail. Why I say that is, I am working on it alone and I
-really enjoy it, I mean all these classes and directories, as well as metin2 has it.
-You will understand that, even if metin2 is slowly dying, The game is
+I do not publish and code the tool for financial or profitable reasons, there 
+is a reason, and that is my dear friend, love, and i get this back from those
+who appreciate every detail. Why I say that is, I am working on it alone and 
+I really enjoy it, I mean all these classes and directories, as well as metin2
+has it. You will understand that, even if metin2 is slowly dying, The game is
 and will be my favorite game.
 
 Kamazucka:
@@ -29,7 +29,7 @@ and today it is Forevermetin2.
 
 The goal or concept was always the same, namely a small database of
 important Metin2 files. A starter set for newcomers or even advanced 
-users. I also need Forever Metin2 myself, and every time I find something
+users. I also need Forevermetin2 myself, and every time I find something
 small, I put it in there so I always have it.
 
 Examples:
@@ -62,5 +62,5 @@ Legend:
 
 To be continued
 
-Kind regards
-iAce
+Best regards
+Ace

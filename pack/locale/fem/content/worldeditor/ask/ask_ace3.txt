@@ -1,13 +1,16 @@
 Is there a magic trick to make the maps look nice?
 
-There are various tips and tricks to get good maps. One of the best tricks is the
-size of the map and the objects. So if you have a small map, you place small
-objects, but if you have a large map, it is advantageous to keep the 
+There are various tips and tricks to get good maps. One of the best tricks 
+is the size of the map and the objects. So if you have a small map, you place
+small objects, but if you have a large map, it is advantageous to keep the
 objects larger. I was able to use this trick on all of my maps. 
 
-What is also very important is the skybox, i.e. the lighting.
-The skybox or environment is very important for a map. Important if the look 
-of the map is important to you.
+What is also very important is the skybox, i.e. the lighting. The skybox or
+environment is very important for a map. Important if the look of the map 
+is important to you. 
+
+Let your fantasy run wild and don't think that something looks crooked or 
+not at all. Sometimes it's things that only we see and not the others.
 
 Kind regards
-iAce
+Ace

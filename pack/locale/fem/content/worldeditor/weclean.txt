@@ -16,8 +16,8 @@ Download link
 -------------
  • https://workupload.com/file/mkgXdphHten
 
-Please do not share this link or publish. If the wrong people see it, it will be
-deleted.
+Please do not share this link or publish. If the wrong people see it, it
+will be deleted.
 
 Password
 ---------
@@ -51,10 +51,10 @@ D:/ymir work/property/ymir/city/redempire/wall
 - a1-038-wall-corner.prb
 - a1-038-wall-door.prb
 
-I sort and test all files individually and unfortunately I have to say alone. But it is
-not a problem as long as I get feedback and credit.
+I sort and test all files individually and unfortunately I have to say alone.
+But it is not a problem as long as I get feedback and credit.
 
 Last change: March 04, 2021
 
 Best regards 
-iAce
+Ace

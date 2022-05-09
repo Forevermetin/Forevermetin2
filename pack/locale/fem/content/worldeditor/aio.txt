@@ -1,3 +1,10 @@
+Version 1.0
+Name:	forevermetin2_aio_v1
+Size:	2.46 GB (Winrar 541 MB)
+File:	exe (Winrar)
+Pass:	forevermetin2
+Virus:	see norten.png
+
 You are probably wondering what aio now means. Or have you already
 interpreted something? I save you the trouble of thinking further, this is aio:
 
@@ -24,4 +31,4 @@ interpreted something? I save you the trouble of thinking further, this is aio:
  > Download: https://workupload.com/file/sCC9ALYPH8e
 
 Best regards 
-iAce
+Ace

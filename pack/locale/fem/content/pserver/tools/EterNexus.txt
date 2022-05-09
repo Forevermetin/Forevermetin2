@@ -33,12 +33,12 @@ Create Date:	2012 - 2013?
 I have only worked with these archvier and can therefore only recommend it.
 
 [Disclaimer]
-I am not responsible for damaged devices, stolen accounts, or hacked identities.
-Everything that is in this file or exe is in www. to find. these are original files, I
-haven't changed them. There is a VirusTotal report, I had it checked by
+I am not responsible for damaged devices, stolen accounts, or hacked
+identities. Everything that is in this file or exe is in www. to find. these are
+original files, I haven't changed them. There is a VirusTotal report, I had it
+checked by
 
     - www.virustotal.com
 
-
 Best regards 
-iAce
+Ace

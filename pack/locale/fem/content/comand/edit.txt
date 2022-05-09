@@ -5,8 +5,14 @@ The comands starts with "/"
 Example: /edit interface_fem
 
 Edit:
+ > export
+ > welcome
+ > worldeditor
  > interface_fem
  > interface_we
+ > interface_pf
+ > interface_ps
  > item_desc
  > locale_string
+ > dialog_string
  > color

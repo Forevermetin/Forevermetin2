@@ -1,0 +1,25 @@
+Solitary the lost Dungeon
+
+This name, so Solitary comes from my favorite series One Piece. The
+map itself, however, does not resemble the Solitary map in the One Piece
+world.
+
+Solitary is not a map, but a series of maps that belong to a single map. The
+main map name is Solitary, and the subdivision are simply small sections of
+it. It is a dungeon. For a Metin2 Pserver I made Solitary, but it was only at
+30%, which means 60% map area was missing because the map was only
+3 x 3 instead of 10 * 10. So over half of the map would be a dungeon, and
+the rest would be an open map mixed with dungeons and ruins.
+
+You can download the first version of the Solitary Map, including the
+objects that can be found there. Textures and skybox are of course also
+included. It is best to open the map in WorldEditor and see how I created
+the map, so you can take it over quietly and it will be easier for you to map.
+
+Thread:	https://metin2.dev/topic/16110-new-dungeon-solitary-ii-map/
+
+If you have any questions or other concerns, please do not hesitate to
+contact me.
+
+Best regards
+Ace

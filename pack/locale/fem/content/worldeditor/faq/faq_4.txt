@@ -2,6 +2,12 @@ Welcome to FAQ 4
 
 Edit standard maps how it works
 ------------------------------
+First said you need here for the latest official client, but also an old client
+goes. The files listed must be unpacked and placed in drive D:/. Mistakes
+can occur if you don't do it right. The official clients can not be unpacked 
+so easily, if the experience is missing, so it is best to look in Pserver area.
+There are various clients that can still be unpacked with conventional
+unpackers.
 
 That is needed
 -------------
@@ -23,4 +29,4 @@ If you did everything right, and you didn't missing some files
 the map is displayed correctly and you can edit them in peace.
 
 Best regards 
-iAce
+Ace

@@ -1,3 +1,32 @@
-Hallo und willkommen zur WorldEditor v40 von MartySama
+Information about WorldEditor version
 
-Mein Text
+Version:	v44
+Author:	martysama0134
+Page:	https://martysama0134.com/
+Thread:	https://metin2.dev/topic/2747-worldeditor-remix/
+Media:	https://www.mediafire.com/folder/g0r2rlnfewwv4/WE
+
+Foreword
+=========
+First of all a big thank you to MartySama for the time he invests 
+in the community. It is not self-evident that so much time is offered
+for free. Few do anything for the community, and he's definitely one
+who's welcome on any forum.
+
+Information about this WorldEditor
+=================================
+You can find a lot of information in the above thread by MartySama.
+I give little support to WorldEditor Remix bugs etc as most of it may 
+need coding and tweaking. In any case, 
+
+Final word
+==========
+v44 is better than its predecessors and you can work well with it.
+Of course it's even better if you improvise and don't open a thread 
+for every error. For example, you can also create a pyramid with
+WorldEditor Brush if you don't have any objects. So be creative and
+let your imagination run wild. In this sense, have fun!
+
+
+Best regards
+Ace

@@ -19,7 +19,10 @@ Unknown	2.19 GB
 
 How to unpack this ukx, utx, usx files
 ----------------------------------
+This .EXE must be located where the files are located. Simply start the
+Caner.exe, and drag a .ukx etc. file into the input.
+
 • https://workupload.com/file/G58LhGJSrhM
 
 Best regards 
-iAce
+Ace

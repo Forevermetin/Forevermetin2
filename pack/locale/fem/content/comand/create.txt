@@ -4,5 +4,5 @@ The comands starts with "/"
 Example: /create worldeditor
 
 Create:
- > worldeditor
- > mapfolder
+ > worldeditor	Create and export everything you need for WorldEditor.
+ > mapfolder	Create server side map folders.

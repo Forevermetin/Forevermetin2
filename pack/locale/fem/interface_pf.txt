@@ -1,0 +1,9 @@
+title_dashboard	Dashboard
+button_howto	How-To
+button_find_property	Find Property
+button_find_textureset	Find Textureset
+button_find_terrainmap	Find Terrainmap
+button_find_environment	Find Environment
+button_find_object	Find Object
+label_source_path	Source Path:
+label_map_path	Map Path:

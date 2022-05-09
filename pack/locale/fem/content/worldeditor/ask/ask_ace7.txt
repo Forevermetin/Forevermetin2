@@ -3,9 +3,13 @@ Can I use other people's objects and then sell the map?
 Here, too, the answer is: yes
 
 Everything that has to do with metin2, none of the Pserver scene has rights,
-unless it is a system or something else. You can use models and everything else
-without thinking. If you are a correct person, you indicate who exported these
-objects and state this in credits.
+unless it is a system or something else. You can use models and everything
+else without thinking. If you are a correct person, you indicate who exported
+these objects and state this in credits.
+
+Caution: We are talking about objects that have been taken over from other
+games.
+
 
 Kind regards
-iAce
+Ace

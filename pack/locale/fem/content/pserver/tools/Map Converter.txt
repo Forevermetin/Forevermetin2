@@ -22,17 +22,18 @@ Create Date:	2013 ( 30.12.2012)
 6 - server_attr.png
 
 [Own Experience]
-I myself have hardly worked with this program. General Photoshop Mapping I
-avoided, because it cost nerves. But I used it once or twice, and it helped me
-further. Test it yourself, and don't think this tool is out of date.
+I myself have hardly worked with this program. General Photoshop 
+Mapping I avoided, because it cost nerves. But I used it once or twice 
+and it helped me further. Test it yourself, and don't think this tool is out 
+of date.
 
 [Disclaimer]
-I am not responsible for damaged devices, stolen accounts, or hacked identities.
-Everything that is in this file or exe is in www. to find. these are original files, I
-haven't changed them. There is a VirusTotal report, I had it checked by
+I am not responsible for damaged devices, stolen accounts, or hacked
+identities. Everything that is in this file or exe is in www. to find. these are
+original files, I haven't changed them. There is a VirusTotal report, I had it
+checked by
 
     - www.virustotal.com
 
-
 Best regards 
-iAce
+Ace

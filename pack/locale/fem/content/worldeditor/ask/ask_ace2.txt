@@ -1,61 +1,68 @@
 Which map sizes are ideal?
 
-Personally, I work very spontaneously, which means that what comes out later is
-not always planned. This does not mean the look, but my structure. Although the
-structure is very important, it is not the decisive factor when it comes to
-mapping. If a customer gives a sketch, I adopt this layout. Otherwise I decide
-spontaneously, depending on the map type and map size. Here is a list of them:
+Personally, I work very spontaneously, which means that what comes out
+later is not always planned. This does not mean the look, but my structure.
+Although the structure is very important, it is not the decisive factor when 
+it comes to mapping. If a customer gives a sketch, I adopt this layout.
+Otherwise I decide spontaneously, depending on the map type and map 
+size. 
+
+Here is a list of them:
 
 Dungeon Maps
 --------------
-such as Spider Dungeon or Monkey Dungeon are beautiful and practical as well
-as antique if you think about it more carefully, but if you compare one of them
-with Grotto of Exile 1 - 2, you can see that dungeons with a size of 3 x 3 are
-enough, but the player always does just the same thing, to get to where you want
-to be in 1-2 minutes. I also think it's a shame that the maps are just a quiky for the
-players. In and out, and that's why I very rarely create maps for others.
+such as Spider Dungeon or Monkey Dungeon are beautiful and practical 
+as well as antique if you think about it more carefully, but if you compare 
+one of them with Grotto of Exile 1 - 2, you can see that dungeons with a 
+size of 3 x 3 are enough, but the player always does just the same thing, 
+to get to where you want to be in 1-2 minutes. I also think it's a shame that 
+the maps are just a quiky for the players. In and out, and that's why I very
+rarely create maps for others.
 
 The perfect length would be as follows:
-Imagine Red Wood, you are at the beginning and you have a military horse with
-you. You have wind shoes or you don't. This old one Feeling like you've been on the
-road for a long time doesn't exist anymore and this robs me the fun of the game.
-It's nice that you offer your players mounts that are very fast, but if you increase
-the speed of the players by 5 times, you should also consider that there should
-be more maps like Cape of Dragon Fire. Solitary is a dungeon map which will be
-finished at some point, and this map is 5 x 5. The difference is that this map has a
-lot of chambers and can be misleading.
+Imagine Red Wood, you are at the beginning and you have a military horse
+with you. You have wind shoes or you don't. This old one Feeling like you've
+been on the road for a long time doesn't exist anymore and this robs me the
+fun of the game. It's nice that you offer your players mounts that are very 
+fast, but if you increase the speed of the players by 5 times, you should also
+consider that there should be more maps like Cape of Dragon Fire. Solitary 
+is a dungeon map which will be finished at some point, and this map is 5 x 5.
+
+The difference is that this map has a lot of chambers and can be misleading.
 
 Farm | Level Maps (Outside)
 --------------------------
-have a size of at least 3 x 3 - 4 x 4. A 5 x (X) can also be used if you have a good
-server. Arbana rework is 10x10 and it's overwhelming. If the Metin2 client and
-server were to withstand a 10x10 map, Metin2 would look and arrive completely
-different. Today Metin2 is simply a square with mountains all around. From a size
-of 5 x 5 - 10 x 10 you can experience Metin2 differently. Please don't get me wrong,
-there are very nice maps out there, but each of them has a quick end, Arbana
-with 10x10 is still too small. You can do a lot there so that it looks big, but it doesn't
-help if the player has crossed the map in 1-2 minutes. This is definitely my vision
-of a server. Today there are servers that might offer something, but no one has
-impressed me until now until world of metin2 and global metin2 from TireZ.
-Global's maps were legends. As soon as arbana is finished, you can find her on
-Nova2 Remastered. Go to this map and check it out. The detailists among us will
-understand when I said 10x10 is small.
+have a size of at least 3 x 3 - 4 x 4. A 5 x (X) can also be used if you have 
+a good server. Arbana rework is 10x10 and it's overwhelming. If the Metin2
+client and server were to withstand a 10x10 map, Metin2 would look and 
+arrive completely different. Today Metin2 is simply a square with mountains
+all around. From a size of 5 x 5 - 10 x 10 you can experience Metin2 differently. 
+
+Please don't get me wrong, there are very nice maps out there, but each of
+them has a quick end, Arbana with 10x10 is still too small. You can do a lot
+there so that it looks big, but it doesn't help if the player has crossed the 
+map in 1-2 minutes. This is definitely my vision of a server. Today there are
+servers that might offer something, but no one has impressed me until now
+until world of metin2 and global metin2 from TireZ. Global's maps were
+legends.
 
 Run Maps
 ---------
-these maps should be at least 1 x 1 - 2 x 2 large, because nobody wants 7 different
-maps, even if there is another way.
+these maps should be at least 1 x 1 - 2 x 2 large, because nobody wants 
+7 different maps, even if there is another way.
 
-However, it is not possible, or perhaps not possible, to produce a lag-free client.
-Apart from the server strength, monsters, npcs and players on the map, You
-mustn't forget that most people love metin2 for this very reason, or love it for
+However, it is not possible, or perhaps not possible, to produce a lag-free
+client. Apart from the server strength, monsters, npcs and players on the
+map, You mustn't forget that most people love metin2 for this very reason
+or love it for
 
 This reason: 
-I played it on Windows XP, at school 2007, at the same graphic as today. It was the
-only game after Habbo Hotel that I could play, and I can say the computers were
-antique, Metin2 ran anyway, unless I was in Demon Tower .. well :) Many players
-have bad computers, and if you are like me , who wants to give everyone a
-pleasant game, then you now know why I keep my Map's Smooth.
+I played it on Windows XP, at school 2007, at the same graphic as today. 
+It was the only game after Habbo Hotel that I could play, and I can say the
+computers were antique, Metin2 ran anyway, unless I was in Demon Tower
+well :) Many players have bad computers, and if you are like me , who wants
+to give everyone a pleasant game, then you now know why I keep my Map's
+Smooth.
 
 Kind regards
-iAce
+Ace

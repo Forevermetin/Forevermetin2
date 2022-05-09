@@ -3,25 +3,34 @@ All comands starts with a slash [ / ]
 Example: /comands patch
 
 logs
-[ i ] This command allows you to open and edit the log file in forevermetin2.
-Activate debug mode to see more funny logs.
+[ i ] This command allows you to open and edit Forevermetin2
+log file. Activate debug mode to see more funny logs.
 
-comands patch
-[ i ] For this command you need the data. dll. This allows you to patch different
-folders and files individually.
+comands create
+[ i ] There are few commands, but very practical and helpful at
+the same time
 
 comands edit
-[ i ] It is possible to open, edit and save fm2 files with the help of this command. 
+[ i ] It is possible to open, edit and save fm2 files with the help
+of this command. 
 
 comands export
-[ i ] This will export local files that are included in Forevermetin2. It’s practical
-because otherwise you always have to search for everything.
+[ i ] This will export local files that are included in Forevermetin2. 
+It’s practical because otherwise you always have to search for
+everything.
 
 comands info
 [ i ] With these commands you can learn more about a topic. 
 
-comands create
-[ i ] There are few commands, but very practical and helpful at the same time
+comands open
+[ i ] With these commands you can open folders. 
 
-Kind regards
-iAce
+comands start
+[ i ] With these commands you can start program's. 
+
+comands patch
+[ i ] For this command you need the data. dll. This allows you to
+patch different folders and files individually.
+
+Best regards
+Ace

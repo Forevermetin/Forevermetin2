@@ -46,8 +46,9 @@ Step 5: Stop MySQL Server
      Comand:
       - service mysql-server stop
 
-Step 6: Start MySQL Server in normal mode and test connection establishment
-The MySQL server is now started again in "normal" mode (without safe mode)
+Step 6: Start MySQL Server in normal mode and test connection
+establishment The MySQL server is now started again in "normal"
+mode (without safe mode)
 -----------------------------------------------------------------------
 
      Comand:
@@ -58,3 +59,4 @@ The MySQL server is now started again in "normal" mode (without safe mode)
 
      Comand:
       - mysql -u root -p
+

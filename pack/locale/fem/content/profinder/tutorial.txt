@@ -1,7 +1,31 @@
 How to use this feature:
-First click on: Property Path
-select your map with: Map Path
-now start searching
 
-more about this concept?  
-- /info profinder
+[ STEP 1 ]
+For example, I want to have exported the "property" 
+of a map, first I click on Find Property button. I enter the following in the source input:
+
+ - D:/ymir work/property
+
+or depending on where my property folder is located.
+after I've done that, I click these question mark Button
+to see if this path exists or not. if you have worldeditor
+in drive D, and all folders are there, you can copy my
+path and test it. 
+
+[ STEP 2 ]
+I enter my map in the second input field and where it
+is located. e.g.
+
+ - D:\ymir work\metin2_map_c1
+
+Or I click on Map Path Label and a search window 
+pops up. Also there I check whether it is found, or 
+even exists.
+
+[ STEP 3 ]
+Click on the Berserk button. Now wait until the tool
+has found and copied everything. The file can then 
+be found where the Forevermetin2.exe is located.
+
+Kind regards
+Ace

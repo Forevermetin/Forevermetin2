@@ -1,7 +1,8 @@
-This feature is used to search for objects that
-were used on a map and for which objects
-are missing.
+Hello,
+This feature is used to search for objects that were used on a map and for which objects are missing.
 
-Maybe with later updates we can delete
-objects individually? first of all we can get 
-this over here.
+More about this concept?  
+- /info profinder
+
+Kind regards
+Ace

@@ -1,12 +1,12 @@
 Yang UI Display System
 
-I have had this system with me for a long time under the todo list. Where I got it
-from or got it.. now.. maybe turkmmo, or metin2downloads... in any case, the
-language in .py is Turkish
+I have had this system with me for a long time under the todo list.
+Where I got it from or got it.. now.. maybe turkmmo, or metin2downloads...
+in any case, the language in .py is Turkish
 
-Through this system you get a small and nice gui at the bottom right. you can
-show and hide them, and you can see how much yang you drop. Otherwise, yang
-drop will only be displayed there.
+Through this system you get a small and nice gui at the bottom right.
+you can show and hide them, and you can see how much yang you drop.
+Otherwise, yang drop will only be displayed there.
 
 [File Info]
 File:		.rar(Winrar)
@@ -14,7 +14,8 @@ Name:		yang_ui_display_system
 Size:		11.7 KB(.rar size)
 
 Autor:		
-If you are the author, please contact me best and I will insert your profile here
+If you are the author, please contact me best and I will insert your profile 
+here
 
 Download:	/export yang display system
 Password:	No password
@@ -25,16 +26,16 @@ Create Date:	06.2018
 This file contains only text and image files.
 
 [Own Experience]
-I built it into myself, and I had no problems with it. this system is therefore 
-stored locally in forevermetin2 because I will always use it myself. It is, and 
+I built it into myself, and I had no problems with it. this system is therefore
+stored locally in forevermetin2 because I will always use it myself. It is, and
 sees and gives one who is playing a good oldschool feeling.
 
 [Disclaimer]
-Everything that is in this file does not come from me. I am not responsible for any
-damage to your PC. The file is imported into Forevermetin2 Local, and is clean.
-Neither I nor the creator of the file are liable for errors on your server. Always
-make backups before you import something new into your source.
-
+Everything that is in this file does not come from me. I am not responsible
+for any damage to your PC. The file is imported into Forevermetin2 Local,
+and is clean. Neither I nor the creator of the file are liable for errors on your
+server. Always make backups before you import something new into your
+source.
 
 Best regards 
-iAce
+Ace

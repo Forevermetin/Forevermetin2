@@ -4,13 +4,13 @@ So you want to set up WorldEditor and need my help? no problem.
 
 [1] Create new partition
 ---------------------
-To see the textures you need a new one
-Partition. You can also start the program without a new partition, but then you
-won't see any textures. Therefore, please create a new partition (drive) and
-give this letter "D". 
+To see the textures you need a new one Partition. You can also start the
+program without a new partition, but then you won't see any textures.
+Therefore, please create a new partition (drive) and give this letter "D". 
+Of course, you can also take a USB stick and assign it the letter D.
 
-With the version of MartySama you can also work without this drive, but you 
-need this drive not only for WorldEditor but also for npc's, items etc.
+With the version of MartySama you can also work without this drive, but
+you need this drive not only for WorldEditor but also for npc's, items etc.
 
 You can find out how to create a partition here:
 
@@ -19,16 +19,16 @@ You can find out how to create a partition here:
 
 [2] Start Forever Metin2 in drive (D)
 --------------------------------
-It is best to start Forever Metin2 in drive (D).
-The tool does not make any changes to your old ones
-Files. Only files that you don't have are downloaded, everything else is left 
-as it is.
+It is best to start Forever Metin2 in drive (D). The tool does not make
+any changes to your old ones Files. Only files that you don't have are
+downloaded, everything else is left as it is.
 
 
 [3] Choose what you want
 ------------------------
-Download WorldEditor Pro or WorldEditor Clean
-I leave the choice to you.
+Download WorldEditor Pro or WorldEditor Clean I leave the choice to you.
+What you just want to know is that I'm more likely to update worldeditor
+clean than worldeditor pro.
 
 
 [4] Unzip and get started
@@ -65,12 +65,15 @@ Forever Metin2 export the following:
   - MSS32.dll
   - python27.dll
   - SpeedTreeRT.dll
-  - MartySama40.exe
+  - MartySama44.exe
 
-Create WorldEditor is good for people who want to do everything themselves.
-Are you a beginner? Then it's best to use WorldEditor Clean. You can combine
-WorldEditor Clean very well with "WorldEditor Work", the two become
-later WorldEditor Gold. Right you see the statistics.
+Create WorldEditor is good for people who want to do everything
+themselves. Are you a beginner? Then it's best to use WorldEditor Clean.
+You can combine WorldEditor Clean very well with "WorldEditor Work", the
+two become later WorldEditor Gold. Right you see the statistics.
+
+These statistics show you how many new objects, textures, etc. have been
+added, apart from the original ymir work files.
 
 Best regards 
-iAce
+Ace

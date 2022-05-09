@@ -1,8 +1,13 @@
 List of Info Comands:
 The comands starts with "/"
 
-Example: /info minimap
+Example: /info profinder
 
 Info:
- > minimap
+ > profinder
+ > artur
+ > worldeditor
  > solitary
+
+Best regards
+Ace

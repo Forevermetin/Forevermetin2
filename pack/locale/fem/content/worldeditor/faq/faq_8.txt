@@ -1,8 +1,9 @@
 Welcome to FAQ 8
 
-Implementing a map can be nervous because if you have forgotten something
-small, you look for mistakes for a long time, even if only there on "." is missing.
-The error output from the client is really sucks, even the long search.
+Implementing a map can be nervous because if you have forgotten
+something small, you look for mistakes for a long time, even if only 
+there on "." is missing. The error output from the client is really sucks, 
+even the long search.
 
 Implement map how it works
 ---------------------------
@@ -19,9 +20,10 @@ Implement map how it works
 
 [2] Root & Locale
 ----------------
-I still haven't understood it! For what needs to Root and Locale Atlas? I really
-dont know that until today. Because of this system, it also happens more often
-errors in the map implementation. In any you have to enter the coordinates here.
+I still haven't understood it! For what needs to Root and Locale Atlas? 
+I really dont know that until today. Because of this system, it also happens
+more often errors in the map implementation. In any you have to enter the
+coordinates here.
 
 • metin2_map_a1	409600	896000	4	5
 
@@ -31,35 +33,37 @@ This is how the red map1 looks:
  • 409600  896000		coordinates
  • 4	5		size
 
-The coordinates can best be seen with KingSora's Generate tool. If you just take
-blind coordinates there will be overlaps. That means if you get kicked off the map
-you should know that the map overlaps with another. Therefore please use
-KingSora's Tool. You dont have his tool? no problem, use this command: 
+The coordinates can best be seen with KingSora's Generate tool. If you 
+just take blind coordinates there will be overlaps. That means if you get 
+kicked off the map you should know that the map overlaps with another.
+Therefore please use KingSora's Tool. You dont have his tool? no problem,
+use this command: 
 
  - /export coordinator 
 
 [3] Client procedure
 ------------------
-Open the "atlasinfo.txt" and enter your coordinates, map size and map name and
-save the file. The file is in root and locale:
+Open the "atlasinfo.txt" and enter your coordinates, map size and map 
+name and save the file. The file is in root and locale:
 
  - locale/locale/*/atlasinfo.txt
  - root/atlasinfo.txt
 
-The map comes in an extra patch or in one existing folder. If you want it clean it’s
-best to make a new patch.
+The map comes in an extra patch or in one existing folder. If you want it
+clean it’s best to make a new patch.
 
  - patch_map
 
-The map and everything that comes with it comes in patch_map, or in the folder
-you selected/created. Would you like to know how to insert the large minimap?
+The map and everything that comes with it comes in patch_map, or in the
+folder you selected/created. Would you like to know how to insert the large
+minimap?
 
  - Command: /info minimap
 
 You should also note the following:
 --------------------------------
-Everything must be in lower case in the map folder! WorldEditor likes to change
-something here and there. 
+Everything must be in lower case in the map folder! WorldEditor likes to
+change something here and there. 
 
 The talk here is from the old worldeditor and not martysama versions. 
 
@@ -70,12 +74,11 @@ for /r %%x in (AreaData.txt) do ren "%%x" areadata.txt
 for /r %%x in (AreaProperty.txt) do ren "%%x" areaproperty.txt
 ping 127.0.0.1 -n 30>nul
 
-
 Paste the .bat in the main folder of your map and start it. 
 
 These files are mostly changed:
 
-      - AreaAmbienceData.txt		> areaambiencedata.txt
+      - AreaAmbienceData.txt	> areaambiencedata.txt
       - AreaData.txt			> areadata.txt
       - AreaProperty.txt		> areaproperty.txt
 
@@ -99,10 +102,11 @@ There may be the following on the first lines:
  - 21	metin2_map_b1
  - 23	metin2_map_b3
 
-So, we see the numbers on the left and the maps on the right. The numbers can
-be chosen freely, but they are not allowed 2x Exist. The same applies to the map
-name. Is called my map bsw. map_feuer_dungeon, that would be mine List look
-like this:
+So, we see the numbers on the left and the maps on the right. The 
+numbers can be chosen freely, but they are not allowed 2x Exist. The 
+same applies to the map name. Is called my map map_feuer_dungeon, 
+
+that would be mine List look like this:
 
  - 1	metin2_map_a1
  - 3	metin2_map_a3
@@ -130,8 +134,8 @@ If my list looks like this, the Npc's Ingame shown twice.
 With the command:
  - /create mapfolder
 
-Can you have a map folder created or Export. This is helpful and also saves 
-time to create one yourself.
+Can you have a map folder created or Export. This is helpful and also 
+saves time to create one yourself.
 
 The following files are exported:
 ------------------------------
@@ -144,24 +148,25 @@ The following files are exported:
 
 All you have to do is adjust them.
 
-When you are finished with the index, you can go to the next step. For this we
-open a config, this is with many files other housed, with fly files would be
-to find the config in game/channel1/Config
+When you are finished with the index, you can go to the next step. For this
+we open a config, this is with many files other housed, with fly files would
+be to find the config in game/channel1/Config
 
 Open your Config and enter the map.
 
  - MAP_ALLOW: 1 3 4 5 21 23 24
 
-An example config. No doubles are allowed here either numbers exist. The
-number you entered in "Index" You got in here too. If you have a run or a map like
-Weeding-map, then always add it to the event channel. As far as I know you have
-to enter the runs like Blue Dragon run in channel99 to avoid lag.
+An example config. No doubles are allowed here either numbers exist. 
+The number you entered in "Index" You got in here too. If you have a run 
+or a map like Weeding-map, then always add it to the event channel. 
+As far as I know you have to enter the runs like Blue Dragon run in 
+channel99 to avoid lag.
 
 Pack & restart
 -------------
-Restart the server "no reboot" and pack all Files you need for your map. If you
-have everything done correctly, you should have no problems can log in. If not,
-check your syserr clientside and serverside.
+Restart the server "no reboot" and pack all Files you need for your map.
+If you have everything done correctly, you should have no problems can
+log in. If not, check your syserr clientside and serverside.
 
 Best regards
-iAce
+Ace

@@ -1,7 +1,8 @@
 Welcome to FAQ 3
 
-Inserting textures is easy and not too annoying like remove objects on the map
-individually. Therefore you have two methods. I will explain the simplest Method.
+Inserting textures is easy and not too annoying like remove objects on 
+the map individually. Therefore you have two methods. I will explain the
+simplest Method.
 
 Insert textures like this
 ---------------------
@@ -14,11 +15,11 @@ Insert textures like this
  - CTRL + S
  - Now your texture is inserted
 
-WorldEditor inserts the texture into your textureset and then always accesses
-this texture set. If your WorldEditor crashes or a texture fails there is the best
-way to check the texture set.
+WorldEditor inserts the texture into your textureset and then always 
+accesses this texture set. If your WorldEditor crashes or a texture fails
+there is the best way to check the texture set.
 
  - textureset/mytexture.txt
 
 Best regards 
-iAce
+Ace

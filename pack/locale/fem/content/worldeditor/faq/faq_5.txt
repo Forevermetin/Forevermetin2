@@ -1,7 +1,17 @@
 Welcome to FAQ 5
 
-Which is the best to create a minimap I honestly can not say, because all versions
-crashed with me after I wanted to create a minimap for my 10x10 map.
+Which is the best to create a minimap 
+
+I honestly can not say, because all versions crashed with me after I 
+wanted to create a minimap for my 10x10 map. I can give a very important 
+tip and that is that before you make the minimap, you should delete the
+environment in the map setting and leave it empty. Your map should not 
+have a skybox or rather.
+
+Like:
+	- Environment	C1.msenv
+To:
+	- Environment
 
 Create minimap this is how it works with "MartySama WorldEditor"
 -------------------------------------------------------------
@@ -14,20 +24,22 @@ Two mini maps are created
  - Large
  - Small
 
-The large minimap will be too big for your atlas so I recommend resizing it. As an
-an example I'll take a 2 x 2 map. I export one 2 x 2 minimap, this has the size: 
-512 x 512 well, the best thing I can do is make the minimap smaller a little bit.
-256 x 256 would be a good size.
+The large minimap will be to big for your atlas so I recommend resizing 
+it. As an an example I'll take a 2 x 2 map. I export one 2 x 2 minimap, this 
+has the size:
+
+512 x 512 well, the best thing I can do is make the minimap smaller a little 
+bit like: 256 x 256 would be a good size.
 
 Tipps
 -----
-1) To export a nicer minimap, I want you to enlarge the textures in textureset. Say
-i have a mountain texture and this is 3 x 3, now:
+1) To export a nicer minimap, I want you to enlarge the textures in textureset.
+Say i have a mountain texture and this is 3 x 3, now:
 
 I set the texture to [0.5 x 0.5] or [1.0 x 1.0]
 
-2) after you have finished your map, it is best to reload it without fog or anything
-else. Or rather, restart WorldEditor.
+2) after you have finished your map, it is best to reload it without fog or
+anything else. Or rather, restart WorldEditor.
 
 Best regards 
-iAce
+Ace

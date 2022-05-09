@@ -5,3 +5,7 @@ Example: /Open export
 
 Open:
  > export
+ > worldeditor
+
+Best regards
+Ace

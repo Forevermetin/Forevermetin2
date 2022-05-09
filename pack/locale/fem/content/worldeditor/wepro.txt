@@ -10,7 +10,8 @@ Download link
 -------------
  • https://bit.ly/2PTbLs0
 
-Please do not share this link or publish. If the wrong people see it, it will be deleted.
+Please do not share this link or publish. If the wrong people see it, it
+will be deleted.
 
 Password
 ---------
@@ -19,11 +20,11 @@ Password
 WorldEditor Pro is no longer being updated, so please no support requests. 
 do you want to keep everything clean? start over only with ymir objects and
 textures? then download WorldEdtior Clean. I try my best and keep everything
-clean. it takes time, so if you notice or see something and have a solution, please
-let me know.
+clean. it takes time, so if you notice or see something and have a solution,
+please let me know.
 
 Note:
 No more support / updates to WorldEditor Pro.
 
 Best regards 
-iAce
+Ace

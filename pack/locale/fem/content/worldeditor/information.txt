@@ -1,19 +1,20 @@
 WorldEditor
 -----------
-Metin2 WorldEditor is a program / tool with which you can create maps for the
-game Metin2. The program WorldEditor or abbreviation "WE", was published
-when Metin2 had a leak. I don't know if anyone had it before. Before WorldEditor
-appeared, most of them worked with Photoshop and then Metin2 Map Tool v.1.4,
-encoded by BlackYuko, at this point I want to thank everyone who has coded such
-tools, thank you even if it is old BlackYuko. There are other programs, but I have
-forgotten the names. But what bad luck too.
+Metin2 WorldEditor is a program / tool with which you can create maps
+for the game Metin2. The program WorldEditor or abbreviation "WE", was
+published when Metin2 had a leak. I don't know if anyone had it before.
+Before WorldEditor appeared, most of them worked with Photoshop and 
+then Metin2 Map Tool v.1.4, encoded by BlackYuko, at this point I want to 
+thank everyone who has coded such tools, thank you even if it is old
+BlackYuko. There are other programs, but I have forgotten the names. 
+But what bad luck too.
 
 Publication
 ----------
 After everything was released, several DEV's brought WorldEditor up and
 running made available to the community. The most used of all versions
-available is the WorldEditor Remix v24 by MartySama. well as far as I could see
-in many videos and screens. 
+available is the WorldEditor Remix v24 by MartySama. well as far as I could
+see in many videos and screens. 
 
 Features: (only the most important listed)
 --------------------------------------
@@ -33,9 +34,10 @@ Features: (only the most important listed)
  • Edit / Save effects
  • Create / Edit / Export animations (MSA,MSM etc.)
 
-Do you want to try WorldEditor? You don't know how to get it going? No problem.
+Do you want to try WorldEditor? You don't know how to get it going? No
+problem.
 
 Please have a look at [F1] in the FAQ section.
 
 Best regards 
-iAce
+Ace

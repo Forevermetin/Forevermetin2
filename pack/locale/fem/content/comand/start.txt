@@ -1,0 +1,17 @@
+List of Start Comands:
+You can edit and save files directly.
+The comands starts with "/"
+
+Example: /start worldeditor
+
+Start:
+ > worldeditor
+ 
+
+There will be more possibilities in the future. Since not all have the
+same folders as me, and thus the programs will not work error-free
+I think about something, so that you can always change the paths.
+Maybe a public dll.
+
+Best regards
+Ace

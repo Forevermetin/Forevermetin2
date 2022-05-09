@@ -4,12 +4,17 @@ Here I list all questions that come to my mind regarding Forevermetin2
 Q1: How do I update Forever Metin2?
         During an update, the tool shows a question mark button. At the top
         left is the update button. However, It's there so you can update live.
+        As soon as an update is available, open the menu by clicking on "X",
+        then select "Info". You can close the info message by double-clicking.
+        Be aware that when you update, all translations you have taken over
+        in your language will be replaced by the main language.
 
 Q2: Can I minimize the tool?
         Yes, ESC or Doppelclick Forevermetin2 Title.
 
 03: How can i close feedback window?
-        Doppleclick the Title.
+        Doppleclick the Title. This also applies to the quest windows
+        and info window.
 
 Q4: What are all these text files for?
         So that you can translate this yourself into your language. Or you
@@ -17,15 +22,29 @@ Q4: What are all these text files for?
         this content and plays it back. If these files do not exist, some things do
         not work. With later updates I will see how I can do this differently.
 
+05: What is the purpose of the inventory?
+        Honestly? Simply a creative idea. For example, I wanted to make a
+        ring item in which when you click on it, worldeditor opens directly.
+        Or another item that starts your virtualbox, or something else. Who
+        knows what will come of it, let's see.
+
 [ DLL'S ]
 Q1: How do I get dll's that I don't have?
-        You will get these dll's over time.
+        You will get these dll's over time. 
 
 Q2: What do i need the dll's for?
         There are different download links, and I always update them.
+        So instead of always updating a whole EXE, we prefer to update dll.
+        These are viruses free, and if suspected, please report it to me.
+        Everything I give, you can check for viruses before you use it.
 
 Q3: But why a dll?
         First of all for fun, secondly really practical and clean.
+        I like to work clean, or I have learned to work cleaner
+        than I did before. Every DLL has its purpose, yes even
+        this script dll has its purpose. I'm learning to program,
+        and I find the possibilities with DLL's and everything
+        else very exciting.
 
-Kind regards
-iAce
+Best regards
+Ace

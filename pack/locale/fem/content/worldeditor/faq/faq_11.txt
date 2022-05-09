@@ -1,9 +1,9 @@
 Welcome to FAQ 11
 
-Exporting objects yourself is best, because there you have a better overview.
-Most of the models that are published are really badly exported the textures at
-least. Autodesk 3DS Max is the most used program when it comes to Metin2 so I
-recommend it to you.
+Exporting objects yourself is best, because there you have a better
+overview. Most of the models that are published are really badly exported
+the textures atleast. Autodesk 3DS Max is the most used program when it
+comes to Metin2 so I recommend it to you.
 
 Navigation > Autodesk 3DS Max
 
@@ -12,4 +12,4 @@ You'll find everything you need there.
 Autodesk 3DS Max Basic Tutorials will follow later.
 
 Best regards 
-iAce
+Ace
