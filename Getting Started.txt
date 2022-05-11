@@ -1,0 +1,67 @@
+
+	
+	███████╗░█████╗░██████╗░███████╗██╗░░░██╗███████╗██████╗░███╗░░░███╗███████╗████████╗██╗███╗░░██╗██████╗░
+	██╔════╝██╔══██╗██╔══██╗██╔════╝██║░░░██║██╔════╝██╔══██╗████╗░████║██╔════╝╚══██╔══╝██║████╗░██║╚════██╗
+	█████╗░░██║░░██║██████╔╝█████╗░░╚██╗░██╔╝█████╗░░██████╔╝██╔████╔██║█████╗░░░░░██║░░░██║██╔██╗██║░░███╔═╝
+	██╔══╝░░██║░░██║██╔══██╗██╔══╝░░░╚████╔╝░██╔══╝░░██╔══██╗██║╚██╔╝██║██╔══╝░░░░░██║░░░██║██║╚████║██╔══╝░░
+	██║░░░░░╚█████╔╝██║░░██║███████╗░░╚██╔╝░░███████╗██║░░██║██║░╚═╝░██║███████╗░░░██║░░░██║██║░╚███║███████╗
+	╚═╝░░░░░░╚════╝░╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚══════╝░░░╚═╝░░░╚═╝╚═╝░░╚══╝╚══════╝
+
+	Hello,
+	
+	Thank you for downloading Forevermetin2, and maybe you will be someone to help me develop it further.
+	Everything you read here was written in German and translated into English via Google Translator. So if
+	you get something funny to read here and there maybe a gramatic error, report it to me, and tell me how it
+	is right.
+	
+	Forevermetin2 means a lot to myself, and I avoid contact with people who want to harm a thing or someone.
+	There will therefore be certain functions that require a login as well as URL from different pages. DLL
+	manipulation would therefore not be advisable, and I am not liable for viruses if you take another DLL.
+	
+
+	██████╗░░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗░███████╗  ██╗███╗░░██╗███████╗░█████╗░
+	██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝░██╔════╝  ██║████╗░██║██╔════╝██╔══██╗
+	██████╔╝███████║██║░░╚═╝█████═╝░███████║██║░░██╗░█████╗░░  ██║██╔██╗██║█████╗░░██║░░██║
+	██╔═══╝░██╔══██║██║░░██╗██╔═██╗░██╔══██║██║░░╚██╗██╔══╝░░  ██║██║╚████║██╔══╝░░██║░░██║
+	██║░░░░░██║░░██║╚█████╔╝██║░╚██╗██║░░██║╚██████╔╝███████╗  ██║██║░╚███║██║░░░░░╚█████╔╝
+	╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚══════╝  ╚═╝╚═╝░░╚══╝╚═╝░░░░░░╚════╝░
+
+	Version:			r2.0
+	
+	File Name:			Forevermetin2.rar
+	RAR Size:			80.9 MB (5 Files, please look at "Content")
+	Full Size:			102  MB (262 Files) & (36 Folders)
+	Release Date:		10.05.2022
+	Last Change:		10.05.2022
+	VirusTotal:			Please look at "Content"
+	Original Thread:	https://metin2.dev/topic/22424-forever-metin2/
+	Homepage:			https://www.forevermetin2.ovh/
+	
+	██╗░░░██╗██████╗░██████╗░░█████╗░████████╗███████╗
+	██║░░░██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
+	██║░░░██║██████╔╝██║░░██║███████║░░░██║░░░█████╗░░
+	██║░░░██║██╔═══╝░██║░░██║██╔══██║░░░██║░░░██╔══╝░░
+	╚██████╔╝██║░░░░░██████╔╝██║░░██║░░░██║░░░███████╗
+	░╚═════╝░╚═╝░░░░░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚══════╝
+	
+	If an update is befor, a question mark appears when logging in, and the revision font changes to red.
+	Click on the question mark to see what's new. To update click on the "X" button in the Main window. A
+	menu appears and there you select "Info". Now confirm the update and wait until everything is downloaded.
+	
+	After everything has been downloaded, please close Forevermetin2 and replace all dll's and the ForeverMetin2.exe
+	with the new one in folder "update". After that, you can delete "update folder".
+
+
+	██╗░░██╗░█████╗░██╗░░░██╗███████╗  ███████╗██╗░░░██╗███╗░░██╗
+	██║░░██║██╔══██╗██║░░░██║██╔════╝  ██╔════╝██║░░░██║████╗░██║
+	███████║███████║╚██╗░██╔╝█████╗░░  █████╗░░██║░░░██║██╔██╗██║
+	██╔══██║██╔══██║░╚████╔╝░██╔══╝░░  ██╔══╝░░██║░░░██║██║╚████║
+	██║░░██║██║░░██║░░╚██╔╝░░███████╗  ██║░░░░░╚██████╔╝██║░╚███║
+	╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝  ╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+
+	The tool is very close to my heart and that's why it's one of my main projects as well as an interesting hobby.
+	I dedicate it to the Metin2 community and it helps to learn new things. Send me your suggestions and ideas via
+	the feedback function, and I'll see if I can get in touch with you.
+
+	With best regards
+	Ace
